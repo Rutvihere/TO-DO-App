@@ -1,0 +1,19 @@
+.list-group-item {
+    border: none;
+    border-radius: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+  
+.list-group-item:hover {
+    background-color: #e7eb78;
+}
+  
+.task-text {
+
+    margin-left: 10px;
+}
+.task-text.completed {
+    color: rgb(17, 69, 240);
+
+}
+  
