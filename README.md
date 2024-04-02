@@ -5,7 +5,7 @@ This is a simple To-Do application built with ReactJS, Redux, and CSS. It allows
 Setup<br>
 Clone the repository:
 
-```git clone <>```<br>
+```git clone <https://github.com/Rutvihere/To-do-App.git>```<br>
 Navigate to the project directory
 
 Install dependencies:
